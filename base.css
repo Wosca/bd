@@ -70,13 +70,13 @@
 
 /* Discord Colors */
 .theme-dark {
-    --info-positive-background: #393D1B;
+    --info-positive-background: #292c14;
     --info-positive-foreground: #6CCB5F;
     --info-warning-background: #433519;
     --info-warning-foreground: #FCE100;
     --info-danger-background: #442726;
     --info-danger-foreground: #FF99A4;
-    --status-positive-background: #393D1B;
+    --status-positive-background: #242711;
     --status-positive-text: #fff;
     --status-warning-background: #433519;
     --status-danger-background: #442726;
